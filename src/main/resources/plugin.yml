@@ -1,0 +1,16 @@
+main: io.github.aleksandarharalanov.hogrider.HogRider
+version: 1.0.0-beta
+name: HogRider
+author: Beezle
+website: github.com/AleksandarHaralanov/HogRider
+description: Allows for full control over pig riding.
+
+commands:
+  hog:
+    description: Summons a pig ride.
+    usage: /<command>
+
+permissions:
+  hogrider.summon:
+    description: Allows player to summon a pig ride.
+    default: op

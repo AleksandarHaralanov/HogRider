@@ -1,0 +1,6 @@
+move-when-held: 260
+
+ride:
+  speed: 0.25
+  jump: 0.42
+  saddle: true
